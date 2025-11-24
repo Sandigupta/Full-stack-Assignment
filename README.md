@@ -16,7 +16,6 @@ Code-Copilot is a full-stack AI-assisted code generation application that conver
 8. [Frontend Deep Dive](#frontend-deep-dive)
 9. [Project Structure](#project-structure)
 10. [Setup Instructions](#setup-instructions)
-11. [License](#license)
 
 ---
 
