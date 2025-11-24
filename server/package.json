@@ -1,0 +1,25 @@
+{
+    "name": "code-generation-copilot-server",
+    "version": "1.0.0",
+    "description": "Backend for Code Generation Copilot",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node --watch src/server.js",
+        "migrate": "sequelize db:migrate",
+        "seed": "sequelize db:seed:all"
+    },
+    "dependencies": {
+        "@google/genai": "^1.30.0",
+        "@google/generative-ai": "^0.24.1",
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.3",
+        "express": "^4.19.2",
+        "mysql2": "^3.15.3",
+        "sequelize": "^6.37.7"
+    },
+    "devDependencies": {
+        "sequelize-cli": "^6.6.3"
+    }
+}
