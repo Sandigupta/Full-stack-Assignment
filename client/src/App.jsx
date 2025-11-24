@@ -5,7 +5,7 @@ import LanguageSelector from './components/LanguageSelector';
 import CodeOutput from './components/CodeOutput';
 import HistoryPanel from './components/HistoryPanel';
 import axios from 'axios';
-const API_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+const API_URL = import.meta.env.VITE_BACKEND_URL || 'https://full-stack-assignment-3.onrender.com';
 console.log('Current API_URL:', API_URL);
 
 
