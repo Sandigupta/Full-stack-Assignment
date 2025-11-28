@@ -4,6 +4,7 @@ Code-Copilot is a full-stack AI-assisted code generation application that conver
 
 ---
 <img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/e0f25c75-5658-4cf1-a021-6bd6a13b4b0c" />
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/2d2c1bfd-f832-4abe-90fa-1bb6965c80bf" />
 
 ## Table of Contents
 
