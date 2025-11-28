@@ -3,6 +3,7 @@
 Code-Copilot is a full-stack AI-assisted code generation application that converts natural language prompts into structured code. It integrates **Google Generative AI**, a **Railway-hosted SQL database**, and a modern **React/Tailwind** frontend. The platform supports multi-language generation, persistent history storage, local favorites, theme preferences, and a rich interactive UI.
 
 ---
+<img width="1920" height="966" alt="Image" src="https://github.com/user-attachments/assets/e0f25c75-5658-4cf1-a021-6bd6a13b4b0c" />
 
 ## Table of Contents
 
